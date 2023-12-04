@@ -1,1 +1,4 @@
 Devops Learnings
+
+1.continous Integration
+2.Continous Development
