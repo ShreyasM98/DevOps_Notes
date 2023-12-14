@@ -42,4 +42,14 @@ solution - Distributed Version Control
 Distributed Version Control
 **********************************************
 Distributed Version Control ---> Local Version Control System + Central Version Control System
-Repository - location where you maintain your version of the file
+Repository - location where you maintain your version of the file.
+Using git you create a local repository
+Using github you create a central repository
+
+Version Database is stored at every user's local system and at the remote server.
+
+Users manipulate the local files and the upload the changes to the remote server.
+
+If any of the servers die, a client server can be used to restore.
+
+
