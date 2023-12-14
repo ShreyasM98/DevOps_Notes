@@ -53,3 +53,22 @@ Users manipulate the local files and the upload the changes to the remote server
 If any of the servers die, a client server can be used to restore.
 
 
+Git
+*************************************************
+Git is an open-source Distributed Version Control Systems(DVCS) which reocords changes made to the files laying emphasis on speed, 
+data integrity and distributed, non-linear workflows.
+
+Why Git is a clear winner?
+
+1.Snapshots - Git records the changes made to a file rather than file itself. That means if a filr isn't changed it isn't stored again.
+
+2.Distributed - Every user has his own copy of the data in repository stored locally allowing full functionality even on disconnection.
+
+3.Integrity - You can't make any changes to anything without Git recording that change.
+
+4.Fast Operations - Almost every operation on git is local, hence the speed offerd by Git is lightning fast compared to other VCS's
+
+5.Branch Handling - Every collaborator's working directory is in itself a branch. Different branches can be merged with ease.
+
+6.Robust - Nearly every task in Git is undoable and it is really hard to lose any change or data in Git 
+
