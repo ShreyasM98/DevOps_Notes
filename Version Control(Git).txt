@@ -1,0 +1,45 @@
+Version Control - Maintaining the back-up of the file where you made the changes.
+Version control System - Which provides common location for merging code by various developers in the project.
+We will not know who did the change, when the change was done and in which line of code/document the change was done.
+
+Version Control - Version Control is a system that documents, the changes made to a file or a set of files. 
+It allows multiple users to manage multiple revisions of the same unit of information.It is a snapshot of your project
+overtime 
+
+Some benefits of version control sysytem are:
+
+1.Restoring Previous Versions.
+2.Storing Versions.
+3.Understanding what happened
+4.Collaborating
+5.Backing up
+
+
+Version Control Systems
+
+Local Version Control(LVC)
+********************************************
+
+1. The practice of having the Version Database in the local computer.
+2.Local database keeps a record of the changes made to files in version database.
+
+issue ---> What if multiple people parallely working on the same project
+
+Solution ---> Centralized Version Control
+
+Centralized Version Control(CVC)
+*******************************************
+Local Version Control's issues are resolved by Centralized Version Control.
+
+In CVC, a central repository is maintained where all the versioned files are kept
+
+Now users can checkout, and check-in files from their different computers at any time
+
+issue - In case of central server failure whole system goes down.
+
+solution - Distributed Version Control
+
+Distributed Version Control
+**********************************************
+Distributed Version Control ---> Local Version Control System + Central Version Control System
+Repository - location where you maintain your version of the file
