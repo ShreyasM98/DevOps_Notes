@@ -72,3 +72,30 @@ Why Git is a clear winner?
 
 6.Robust - Nearly every task in Git is undoable and it is really hard to lose any change or data in Git 
 
+Git Commands
+********************************************
+
+To move from EC-2 instance to root user
+sudo su -
+
+yum - is a package for Amazon-Linux Tool or Redhat-Linux Tool
+
+yum install git -y ---> command used to install git
+
+git --version ---> command to check wheather the git is installed or not
+
+git init ---> create a local repository for us
+
+what is the folder that represents your local repository? .git folder
+
+Which command creates a local repository? git init
+
+git status ---> Helps us to check which change is version controlled , which change is not version controlled.
+
+git add . ----> To add all the files to the staged area.
+
+git add index1.html ---> To add the index1.html to the staged area.
+
+# git commit -m "added file index1.html to LR" ---> which moves the files which are in the staging area to the Local Repository.
+
+create mode 100644 index1.html --> 100644 is the  Permissions to the file.
